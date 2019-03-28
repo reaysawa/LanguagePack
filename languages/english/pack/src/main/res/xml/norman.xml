@@ -14,7 +14,7 @@ https://normanlayout.info/
         <Key android:codes="119" android:keyLabel="w" android:popupCharacters="2đďδ" ask:hintLabel="2"/>
         <Key android:codes="100" android:keyLabel="d" android:popupCharacters="3řŕρ" ask:hintLabel="3"/>
         <Key android:codes="102" android:keyLabel="f" android:popupCharacters="4ŵω" ask:hintLabel="4"/>
-        <Key android:codes="108" android:keyLabel="k" android:popupCharacters="5β" ask:hintLabel="5"/>
+        <Key android:codes="107" android:keyLabel="k" android:popupCharacters="5β" ask:hintLabel="5"/>
         <Key android:codes="106" android:keyLabel="j" android:popupCharacters="6ĵ" ask:hintLabel="6"/>
         <Key android:codes="117" android:keyLabel="u" android:popupCharacters="7ϕ" ask:hintLabel="7"/>
         <Key android:codes="114" android:keyLabel="r" android:popupCharacters="8ùúǔûüŭűūυ" ask:hintLabel="8"/>
